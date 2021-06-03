@@ -19,9 +19,10 @@ export const heroData = {
 export const aboutData = {
   img: 'myprofile.jpg',
   paragraphOne:
+    'My name is Federico and I am 27 yo. I am from Fano, Italy and I have been living in Barcelona for 6 years. I am fluent in Italian, English, Spanish, advanced in Catalan and conversational in French.',
+  paragraphTwo:
     'After completing a Master’s degree in Translation Technology at the Universidad Autònoma de Barcelona and working as a Project Manager, I have decided to take a deep dive into the world of coding myself.',
-  paragraphTwo: 'I love languages, travelling, videogames and mangas',
-  paragraphThree: '“Experience is the name everyone gives to their mistakes.”       - Oscar Wilde ',
+  paragraphThree: 'I love languages, travelling, videogames and mangas.',
   resume: 'https://www.dropbox.com/s/jfp4i4pqggneh1j/Federico%20Gambini_EN.pdf?dl=0', // if no resume, the button will not show up
 };
 

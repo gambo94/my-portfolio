@@ -43,7 +43,8 @@ export const projectsData = [
     img: 'chat.jpg',
     title: 'Real time chat',
     info: 'A realtime chat app built with Socket.io, Node.js, typeORM and VanillaJS',
-    info2: 'It includes a sign up form, log in and rooms selection',
+    info2:
+      'It includes a sign up form, log in and rooms selection. I am currently working on the frontend part for this project with React.',
     // url: '',
     repo: 'https://github.com/gambo94/chat-websocket', // if no repo, the button will not show up
   },

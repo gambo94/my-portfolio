@@ -43,8 +43,7 @@ export const projectsData = [
     img: 'chat.jpg',
     title: 'Real time chat',
     info: 'A realtime chat app built with Socket.io, Node.js, typeORM and VanillaJS',
-    info2:
-      'It includes a sign up form, log in and rooms selection. I am currently working on the frontend part for this project with React.',
+    info2: 'It includes a sign up form, log in and rooms selection.',
     // url: '',
     repo: 'https://github.com/gambo94/chat-websocket', // if no repo, the button will not show up
   },
@@ -53,7 +52,8 @@ export const projectsData = [
     img: 'dice.jpg',
     title: 'A dice game restful API',
     info: 'An API that could support a dice game with various endpoints',
-    info2: 'Built using NodeJS, MongoDB and JWT authentication',
+    info2:
+      'Built using NodeJS, MongoDB and JWT authentication. I am currently working on the frontend part for this project with React.',
     url: '',
     repo: 'https://github.com/gambo94/dice-game-API', // if no repo, the button will not show up
   },
